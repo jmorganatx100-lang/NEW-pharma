@@ -1,0 +1,85 @@
+[
+  {
+    "id": "gonadorelin",
+    "name": "Gonadorelin",
+    "category": "GnRH Agonist",
+    "status": "Nominated",
+    "nominationDate": "2024-06-15",
+    "pcacMeetings": [
+      {
+        "date": "2024-09-19",
+        "action": "Discussed",
+        "notes": "FDA presented safety review; panel voted to advance"
+      }
+    ],
+    "docket": "FDA-2024-N-XXXX",
+    "description": "Synthetic gonadotropin-releasing hormone analog for pituitary suppression",
+    "molecularWeight": 1182.3,
+    "therapeuticArea": "Endocrinology",
+    "sourceDocument": "https://www.fda.gov/..."
+  },
+  {
+    "id": "leuprolide",
+    "name": "Leuprolide Acetate",
+    "category": "GnRH Agonist",
+    "status": "Nominated",
+    "nominationDate": "2024-05-22",
+    "pcacMeetings": [
+      {
+        "date": "2024-09-19",
+        "action": "Deferred",
+        "notes": "Requested additional manufacturing data"
+      }
+    ],
+    "docket": "FDA-2024-N-YYYY",
+    "description": "Long-acting GnRH agonist for hormone-sensitive conditions",
+    "molecularWeight": 1269.5,
+    "therapeuticArea": "Endocrinology",
+    "sourceDocument": "https://www.fda.gov/..."
+  },
+  {
+    "id": "triptorelin",
+    "name": "Triptorelin Pamoate",
+    "category": "GnRH Agonist",
+    "status": "Under Review",
+    "nominationDate": "2024-07-10",
+    "pcacMeetings": [],
+    "docket": "FDA-2024-N-ZZZZ",
+    "description": "GnRH agonist with extended dosing interval for prostate cancer",
+    "molecularWeight": 1311.5,
+    "therapeuticArea": "Oncology",
+    "sourceDocument": "https://www.fda.gov/..."
+  },
+  {
+    "id": "octreotide",
+    "name": "Octreotide Acetate",
+    "category": "Somatostatin Analog",
+    "status": "Nominated",
+    "nominationDate": "2024-04-18",
+    "pcacMeetings": [
+      {
+        "date": "2024-09-19",
+        "action": "Approved for Bulk List",
+        "notes": "Met all criteria; added to FDA 503A bulks list pending publication"
+      }
+    ],
+    "docket": "FDA-2024-N-AAAA",
+    "description": "Somatostatin analog for neuroendocrine tumors and acromegaly",
+    "molecularWeight": 1019.3,
+    "therapeuticArea": "Oncology/Endocrinology",
+    "sourceDocument": "https://www.fda.gov/..."
+  },
+  {
+    "id": "degarelix",
+    "name": "Degarelix Acetate",
+    "category": "GnRH Antagonist",
+    "status": "Nominated",
+    "nominationDate": "2024-06-02",
+    "pcacMeetings": [],
+    "docket": "FDA-2024-N-BBBB",
+    "description": "GnRH antagonist for prostate cancer with rapid onset",
+    "molecularWeight": 1526.7,
+    "therapeuticArea": "Oncology",
+    "sourceDocument": "https://www.fda.gov/..."
+  }
+]
