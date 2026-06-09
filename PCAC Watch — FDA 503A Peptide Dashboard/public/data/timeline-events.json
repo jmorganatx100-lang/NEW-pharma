@@ -1,0 +1,97 @@
+[
+  {
+    "id": "event-001",
+    "date": "2024-06-15",
+    "title": "Gonadorelin Nomination Submitted",
+    "description": "Gonadorelin officially nominated for FDA 503A bulks list consideration",
+    "type": "nomination",
+    "relatedPeptides": ["gonadorelin"],
+    "source": "FDA PCAC"
+  },
+  {
+    "id": "event-002",
+    "date": "2024-06-02",
+    "title": "Degarelix Nomination Submitted",
+    "description": "Degarelix Acetate nominated as GnRH antagonist alternative",
+    "type": "nomination",
+    "relatedPeptides": ["degarelix"],
+    "source": "FDA PCAC"
+  },
+  {
+    "id": "event-003",
+    "date": "2024-09-19",
+    "title": "PCAC September Meeting",
+    "description": "Quarterly PCAC meeting held; 4 peptides discussed, 1 approved for bulk list",
+    "type": "meeting",
+    "relatedPeptides": ["gonadorelin", "leuprolide", "octreotide"],
+    "decisions": {
+      "approved": ["octreotide"],
+      "deferred": ["leuprolide"],
+      "advanced": ["gonadorelin"]
+    },
+    "source": "FDA PCAC"
+  },
+  {
+    "id": "event-004",
+    "date": "2024-10-01",
+    "title": "DEA Telehealth Rule Update",
+    "description": "DEA advances telehealth prescribing framework for 503A-compounded peptides",
+    "type": "regulatory",
+    "impact": "high",
+    "source": "DEA"
+  },
+  {
+    "id": "event-005",
+    "date": "2024-10-15",
+    "title": "Octreotide Added to FDA 503A Bulks List",
+    "description": "Octreotide Acetate officially published on FDA 503A bulks list",
+    "type": "milestone",
+    "relatedPeptides": ["octreotide"],
+    "source": "FDA"
+  },
+  {
+    "id": "event-006",
+    "date": "2024-11-01",
+    "title": "Triptorelin Under Review",
+    "description": "Triptorelin Pamoate entered FDA review phase; manufacturing inspection scheduled",
+    "type": "review",
+    "relatedPeptides": ["triptorelin"],
+    "source": "FDA CDER"
+  },
+  {
+    "id": "event-007",
+    "date": "2024-12-10",
+    "title": "PCAC December Meeting",
+    "description": "Year-end PCAC meeting to review 2024 nominations and plan 2025 priorities",
+    "type": "meeting",
+    "relatedPeptides": ["gonadorelin", "leuprolide", "triptorelin", "degarelix"],
+    "source": "FDA PCAC"
+  },
+  {
+    "id": "event-008",
+    "date": "2025-01-15",
+    "title": "Leuprolide Manufacturing Data Submitted",
+    "description": "Applicant submitted additional CMC data addressing PCAC September deferral",
+    "type": "submission",
+    "relatedPeptides": ["leuprolide"],
+    "source": "FDA PCAC"
+  },
+  {
+    "id": "event-009",
+    "date": "2025-02-01",
+    "title": "DEA Streamlined 503A Telehealth Pathway Finalized",
+    "description": "DEA finalizes streamlined prescribing pathway for approved 503A peptides via telehealth",
+    "type": "regulatory",
+    "impact": "high",
+    "source": "DEA"
+  },
+  {
+    "id": "event-010",
+    "date": "2025-03-15",
+    "title": "Gonadorelin Approved for Bulk List",
+    "description": "Gonadorelin Acetate approved and added to FDA 503A bulks list",
+    "type": "milestone",
+    "relatedPeptides": ["gonadorelin"],
+    "source": "FDA"
+  }
+]
